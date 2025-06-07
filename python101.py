@@ -4,3 +4,5 @@ a = float(input("enter first number"))
 b =  float(input("enter second number"))
 c = a + b
 print("sum is " ,c)
+
+new macbook
